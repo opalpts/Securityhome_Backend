@@ -1,5 +1,6 @@
 # Securityhome_Backend
 
+how to run project
 - mkdir Securityhome_Backend
 - cd Securityhome_Backend
 - python -m venv venv
